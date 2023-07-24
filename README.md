@@ -14,6 +14,7 @@ Django_Blog_APP is a Django-based web application that allows users to create an
 ### Upcoming Features 
 - commentign system to allow users to leave comments on blog bosts
 - Email notification notification system to notify users of new comments or blog posts
+- tagging system to categorize blog posts and make them easier to find 
 
 ## Installation
 
