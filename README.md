@@ -3,12 +3,17 @@
 Django_Blog_APP is a Django-based web application that allows users to create and manage their own blog posts. The application includes basic and advanced features, as well as authentication functionality for login, logout, and submitting new users.
 
 ## Features
+### Existing Features 
 
 - User registration and authentication for secure access to the application
 - Create, read, update, and delete blog posts
 - Search functionality to find specific blog posts
 - Pagination to display a limited number of blog posts per page
 - Responsive design using CSS for optimal viewing on all devices
+
+### Upcoming Features 
+- commentign system to allow users to leave comments on blog bosts
+- Email notification notification system to notify users of new comments or blog posts
 
 ## Installation
 
